@@ -6,7 +6,7 @@
   "author": "Gilad Novik <gilad@hola.ca>",
   "license": "MIT",
   "dependencies": {
-    "hutil": "^0.1.6",
+    "hutil": "^0.2.4",
     "lodash": "^4.15.0",
     "request": "^2.74.0"
   }
